@@ -49,7 +49,7 @@ Mathematical methods implemented from scratch.
 ## Skills
 
 **Languages:**  
-Python, C++, C#, C, SQL
+Python (Primary), C++, C#, C, SQL (Academic/Familiar)
 
 **Machine Learning / Data Analysis:**  
 regression, classification, model evaluation, cross-validation, hyperparameter tuning, ensemble methods, neural networks, data preprocessing
@@ -133,7 +133,7 @@ Additional:
 ## Навыки
 
 **Языки:**  
-Python, C++, C#, C, SQL
+Python (Основа), C++, C#, C, SQL (Институт / Знаком)
 
 **Машинное обучение / анализ данных:**  
 регрессия, классификация, оценка моделей, кросс-валидация, подбор гиперпараметров, ансамбли, нейронные сети, предобработка данных
