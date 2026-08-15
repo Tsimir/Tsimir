@@ -1,23 +1,22 @@
-# Hi, I'm Daniel
+# Hi, I'm Daniil
 
-Applied Mathematics and Computer Science graduate with a strong interest in Machine Learning, Data Science, optimization and mathematical modeling.
+A graduate in Applied Mathematics and Computer Science. I am passionate about machine learning, data analysis, and optimization.
 
-I like turning math into working code: preference learning, ranking systems, numerical methods, ML experiments and data analysis.
-
-**Looking for:** ML / Data Science / Research / Software Engineering internships.
+I love applying mathematics to real-world problems, experimenting, and polishing solutions to perfection.
+**Looking for:** Internships in ML / Data Science / Research / Software Engineering.
 
 ---
 
-## Featured Projects
+## Key Projects
 
-### [Diploma — Preference Recovery](https://github.com/Tsimir/diploma)
+### [Thesis — Preference Recovery](https://github.com/Tsimir/SRW)
 
-Research project on recovering preferences from ordinal expert assessments.
+A research project on recovering preferences based on ordinal expert evaluations.
 
-- Implemented and compared preference recovery methods, including matrix approximation, rank approximation, Hedge-based algorithm and cone-based methods.
-- Used Kendall and Spearman rank correlations, pair accuracy and Frobenius error.
-- Conducted large-scale synthetic experiments with 84k+ configurations.
-- Analyzed trade-offs between accuracy, computational complexity and robustness to noise.
+- Implemented and compared preference recovery methods: matrix and rank approximations, the Hedge algorithm, and cone-based methods.
+- Utilized Kendall and Spearman coefficients, pairwise comparison accuracy, and Frobenius error.
+- Conducted large-scale synthetic experiments across various dimensions, data generators, and methods.
+- Analyzed the trade-off between quality, computational complexity, and robustness to noise.
 
 **Stack:** Python, NumPy, SciPy, pandas, Matplotlib
 
@@ -25,12 +24,12 @@ Research project on recovering preferences from ordinal expert assessments.
 
 ### [News Popularity ML Study](https://github.com/Tsimir/news-popularity-ml)
 
-Comparative machine learning study on the Online News Popularity dataset.
+A comparative ML study on the Online News Popularity dataset.
 
 - Built regression and classification pipelines to predict article popularity.
-- Compared KNN, linear models, Ridge/Lasso, SVM, decision trees, Random Forest, Gradient Boosting and MLP.
-- Used scaling, cross-validation, GridSearchCV, confusion matrices and model diagnostics.
-- Analyzed class imbalance, hyperparameter sensitivity and model limitations.
+- Compared KNN, linear models, Ridge/Lasso, SVM, decision trees, Random Forest, Gradient Boosting, and MLP.
+- Applied scaling, cross-validation, GridSearchCV, confusion matrices, and model diagnostics.
+- Analyzed class imbalance, hyperparameter sensitivity, and model limitations.
 
 **Stack:** Python, scikit-learn, pandas, Matplotlib
 
@@ -40,10 +39,8 @@ Comparative machine learning study on the Online News Popularity dataset.
 
 Mathematical methods implemented from scratch.
 
-- Optimization: bisection method, Fibonacci search, Newton-Raphson method, gradient descent, local search, Nelder-Mead simplex method.
-- Fuzzy logic: Mamdani inference system for the tipping problem.
-- Membership functions: triangular, Gaussian, sigmoid, Z-shaped, Pi-shaped and others.
-- Visualized convergence and fuzzy control surfaces.
+- Optimization: bisection method, Fibonacci search, Newton-Raphson method, gradient descent, local descent, Nelder-Mead method.
+- Fuzzy logic: Mamdani expert system for the tipping problem.
 
 **Stack:** Python, NumPy, Matplotlib, scikit-fuzzy
 
@@ -60,37 +57,36 @@ regression, classification, model evaluation, cross-validation, hyperparameter t
 **Mathematics:**  
 optimization, numerical methods, fuzzy logic, ranking and preference aggregation, statistics, linear algebra
 
-**Other:**  
-analytical thinking, system approach, technical writing, mentoring, ability to explain complex things simply
+**Additional:**  
+analytical thinking, systematic approach, technical writing, mentoring, ability to explain complex concepts simply
 
 ---
 
 ## Education
 
 **Siberian Federal University**  
-Bachelor’s degree in Applied Mathematics and Computer Science, with honors
+Bachelor's Degree in Applied Mathematics and Computer Science, with honors
 
-Additional training:
-- Professional retraining: Programmer
-- Additional education program: Unity Game Development
+Additional:
+- Professional retraining: "Software Developer"
+- Supplementary program: Unity game development
 
 ---
 
 ## Contact
 
 - GitHub: [@Tsimir](https://github.com/Tsimir)
-- Email: [your-email@example.com](mailto:dani.bulatov.2004@mail.ru)
-- Telegram: [@silsim]
+- Email: [dani.bulatov.2004@mail.ru](mailto:dani.bulatov.2004@mail.ru)
+- Telegram: [@siltsim]
 
 <details>
 <summary>Русская версия</summary>
 
 # Привет, я Даниил
 
-Выпускник направления «Прикладная математика и информатика». Мне интересны машинное обучение, анализ данных, оптимизация и математическое моделирование.
+Выпускник направления «Прикладная математика и информатика». Мне интересны машинное обучение, анализ данных и оптимизация.
 
-Мне нравится превращать математику в работающий код: задачи восстановления предпочтений, ранжирование, численные методы, ML-эксперименты и анализ данных.
-
+Мне нравится прикладывать математику, экспериментировать и доводить задачи до блеска.
 **Ищу:** стажировки по направлениям ML / Data Science / Research / Software Engineering.
 
 ---
@@ -103,7 +99,7 @@ Additional training:
 
 - Реализовал и сравнил методы восстановления предпочтений: матричную и ранговую аппроксимации, алгоритм Hedge, конусные методы.
 - Использовал коэффициенты Кендалла и Спирмена, точность попарных сравнений и ошибку Фробениуса.
-- Провёл масштабные синтетические эксперименты: 84k+ конфигураций.
+- Провёл масштабные синтетические эксперименты: различные размерности, генераторы данных и методы.
 - Проанализировал компромисс между качеством, вычислительной сложностью и устойчивостью к шуму.
 
 **Стек:** Python, NumPy, SciPy, pandas, Matplotlib
@@ -129,8 +125,6 @@ Additional training:
 
 - Оптимизация: метод бисекции, метод Фибоначчи, метод Ньютона-Рафсона, градиентный спуск, локальный спуск, метод Нелдера-Мида.
 - Нечёткая логика: экспертная система Мамдани для задачи о чаевых.
-- Функции принадлежности: треугольные, гауссовские, сигмоидные, Z-образные, π-образные и другие.
-- Визуализировал сходимость методов и поверхность нечёткого управления.
 
 **Стек:** Python, NumPy, Matplotlib, scikit-fuzzy
 
@@ -166,9 +160,7 @@ Python, C++, C#, C, SQL
 ## Контакты
 
 - GitHub: [@Tsimir](https://github.com/Tsimir)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Telegram: [@your_username]
-- LinkedIn: [your-linkedin]
-- Резюме: [link]
+- Email: [your-email@example.com](mailto:dani.bulatov.2004@mail.ru)
+- Telegram: [@siltsim]
 
 </details>
