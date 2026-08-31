@@ -40,9 +40,8 @@
 Математические методы, реализованные с нуля.
 
 - Оптимизация: метод бисекции, метод Фибоначчи, метод Ньютона-Рафсона, градиентный спуск, локальный спуск, метод Нелдера-Мида.
-- Нечёткая логика: экспертная система Мамдани для задачи о чаевых.
 
-**Стек:** Python, NumPy, Matplotlib, scikit-fuzzy
+**Стек:** Python, NumPy, Matplotlib
 
 ---
 
@@ -76,7 +75,7 @@ Python (Основа), C++, C#, C, SQL (Институт / Знаком)
 ## Контакты
 
 - GitHub: [@Tsimir](https://github.com/Tsimir)
-- Email: [your-email@example.com](mailto:dani.bulatov.2004@mail.ru)
+-  Email: [dani.bulatov.2004@mail.ru](mailto:dani.bulatov.2004@mail.ru)
 - Telegram: [@siltsim]
 
 <details>
@@ -106,27 +105,13 @@ A research project on recovering preferences based on ordinal expert evaluations
 
 ---
 
-### [News Popularity ML Study](https://github.com/Tsimir/news-popularity-ml)
-
-A comparative ML study on the Online News Popularity dataset.
-
-- Built regression and classification pipelines to predict article popularity.
-- Compared KNN, linear models, Ridge/Lasso, SVM, decision trees, Random Forest, Gradient Boosting, and MLP.
-- Applied scaling, cross-validation, GridSearchCV, confusion matrices, and model diagnostics.
-- Analyzed class imbalance, hyperparameter sensitivity, and model limitations.
-
-**Stack:** Python, scikit-learn, pandas, Matplotlib
-
----
-
 ### [Applied Math Methods](https://github.com/Tsimir/applied-math-methods)
 
 Mathematical methods implemented from scratch.
 
 - Optimization: bisection method, Fibonacci search, Newton-Raphson method, gradient descent, local descent, Nelder-Mead method.
-- Fuzzy logic: Mamdani expert system for the tipping problem.
 
-**Stack:** Python, NumPy, Matplotlib, scikit-fuzzy
+**Stack:** Python, NumPy, Matplotlib
 
 ---
 
