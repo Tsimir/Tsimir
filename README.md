@@ -22,9 +22,8 @@
 
 ---
 
-### [News Popularity ML Study](https://github.com/Tsimir/news-popularity-ml)
 
-Сравнительное ML-исследование на датасете Online News Popularity.
+Сравнительное ML-исследование на датасете Online News Popularity в рамках дисциплины "Анализ данных".
 
 - Построил пайплайны регрессии и классификации для предсказания популярности статей.
 - Сравнил KNN, линейные модели, Ridge/Lasso, SVM, деревья решений, Random Forest, Gradient Boosting и MLP.
@@ -35,9 +34,8 @@
 
 ---
 
-### [Applied Math Methods](https://github.com/Tsimir/applied-math-methods)
 
-Математические методы, реализованные с нуля.
+Математические методы, реализованные с нуля в рамках дисциплины "Методы оптимизации".
 
 - Оптимизация: метод бисекции, метод Фибоначчи, метод Ньютона-Рафсона, градиентный спуск, локальный спуск, метод Нелдера-Мида.
 
@@ -77,75 +75,3 @@ Python (Основа), C++, C#, C, SQL (Институт / Знаком)
 - GitHub: [@Tsimir](https://github.com/Tsimir)
 -  Email: [dani.bulatov.2004@mail.ru](mailto:dani.bulatov.2004@mail.ru)
 - Telegram: [@siltsim]
-
-<details>
-<summary>English version</summary>
-  
-# Hi, I'm Daniil
-
-A graduate in Applied Mathematics and Computer Science. I am passionate about machine learning, data analysis, and optimization.
-
-I love applying mathematics to real-world problems, experimenting, and polishing solutions to perfection.
-**Looking for:** Internships in ML / Data Science / Research / Software Engineering.
-
----
-
-## Key Projects
-
-### [Thesis — Preference Recovery](https://github.com/Tsimir/SRW)
-
-A research project on recovering preferences based on ordinal expert evaluations.
-
-- Implemented and compared preference recovery methods: matrix and rank approximations, the Hedge algorithm, and cone-based methods.
-- Utilized Kendall and Spearman coefficients, pairwise comparison accuracy, and Frobenius error.
-- Conducted large-scale synthetic experiments across various dimensions, data generators, and methods.
-- Analyzed the trade-off between quality, computational complexity, and robustness to noise.
-
-**Stack:** Python, NumPy, SciPy, pandas, Matplotlib
-
----
-
-### [Applied Math Methods](https://github.com/Tsimir/applied-math-methods)
-
-Mathematical methods implemented from scratch.
-
-- Optimization: bisection method, Fibonacci search, Newton-Raphson method, gradient descent, local descent, Nelder-Mead method.
-
-**Stack:** Python, NumPy, Matplotlib
-
----
-
-## Skills
-
-**Languages:**  
-Python (Primary), C++, C#, C, SQL (Academic/Familiar)
-
-**Machine Learning / Data Analysis:**  
-regression, classification, model evaluation, cross-validation, hyperparameter tuning, ensemble methods, neural networks, data preprocessing
-
-**Mathematics:**  
-optimization, numerical methods, fuzzy logic, ranking and preference aggregation, statistics, linear algebra
-
-**Additional:**  
-analytical thinking, systematic approach, technical writing, mentoring, ability to explain complex concepts simply
-
----
-
-## Education
-
-**Siberian Federal University**  
-Bachelor's Degree in Applied Mathematics and Computer Science, with honors
-
-Additional:
-- Professional retraining: "Software Developer"
-- Supplementary program: Unity game development
-
----
-
-## Contact
-
-- GitHub: [@Tsimir](https://github.com/Tsimir)
-- Email: [dani.bulatov.2004@mail.ru](mailto:dani.bulatov.2004@mail.ru)
-- Telegram: [@siltsim]
-
-</details>
